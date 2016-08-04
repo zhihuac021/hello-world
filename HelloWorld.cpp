@@ -8,3 +8,8 @@ void HelloWorld::printnumber()
     int number = 8;
     std::cout<<"why not output: "<<number<<std::endl;
 }
+
+void HelloWorld::addfun()
+{
+    
+}
